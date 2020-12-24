@@ -8,7 +8,8 @@ Info: https://medium.com/@yolandaluqueh/music-to-led-strip-tutorial-using-fourie
 
 ### Description
 It is modified version of Arduino sketch and my version of implementation.
-![Schematic]Schematic_RGB Music.png "Schematic")
+
+![Screenshot](Schematic_RGB_Music.png)
 
 Used Audio Input jack (3.5mm) to read the sound, and PWN pins for RGB channels to sync LED with sound frequencies, which received using FFT algorithm.
 
