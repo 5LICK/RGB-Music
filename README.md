@@ -4,6 +4,7 @@ Used simple RGB led strip and Arduino to visualize music using the Fourier Trans
 
 ### Based on
 Repository: https://github.com/ravyoli314/MusicToLED
+
 Info: https://medium.com/@yolandaluqueh/music-to-led-strip-tutorial-using-fourier-transform-3d203a48fe14
 
 ### Description
